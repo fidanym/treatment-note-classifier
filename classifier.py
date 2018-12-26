@@ -48,8 +48,13 @@ text = [
     ("I gave a bottle of rakija to Stano"),
     ("Everybody needs more drugs"),
     ("The patient was instructed to leave the premises"),
+    ("There was no reason for this appointment"),
+    ("2mg pills for bone strength, calcium"),
+    ("Paracetamol is to be taken twice a day"),
     ("Dance took a pill in Ibiza")
 ]
+
+print("============================================================")
 
 for sentence in text:
     print(sentence)
